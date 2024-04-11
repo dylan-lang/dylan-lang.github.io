@@ -26,4 +26,5 @@ Packages
 * `anaphora <https://dylan-lang.github.io/anaphora/>`_
 * `base64 <https://dylan-lang.github.io/base64/>`_
 * `binary-data <https://dylan-lang.github.io/binary-data/>`_
+* `collection-extensions <https://dylan-lang.github.io/collection-extensions/>`_
 * `testworks <https://dylan-lang.github.io/testworks/>`_
