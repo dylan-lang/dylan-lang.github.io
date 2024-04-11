@@ -23,5 +23,6 @@ listed here.
 Packages
 --------
 
+* `anaphora <https://dylan-lang.github.io/anaphora/>`_
 * `binary-data <https://dylan-lang.github.io/binary-data/>`_
 * `testworks <https://dylan-lang.github.io/testworks/>`_
