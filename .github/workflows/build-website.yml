@@ -3,7 +3,6 @@ name: Build website
 on:
   push:
     # all branches
-  pull_request:
 
   # This enables the Run Workflow button on the Actions tab.
   workflow_dispatch:
