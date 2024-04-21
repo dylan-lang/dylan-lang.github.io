@@ -28,4 +28,5 @@ Packages
 * `binary-data <https://dylan-lang.github.io/binary-data/>`_
 * `collection-extensions <https://dylan-lang.github.io/collection-extensions/>`_
 * `command-interface <http://dylan-lang.github.io/command-interface/>`_
+* `lsp-dylan <https://dylan-lang.github.io/lsp-dylan/>`_
 * `testworks <https://dylan-lang.github.io/testworks/>`_
